@@ -1,4 +1,4 @@
-<h1 align="center">🧾 Polymorphic Employee Payroll Java</h1>
+<h1 align="center">🧾 Polimorfisme Employee Payroll Java</h1>
 <p align="center">
   <b>Demo Polimorfisme dan Pewarisan untuk Penggajian Karyawan di Java</b><br>
   <sub>Proyek Java yang mengimplementasikan konsep inheritance dan polymorphism untuk mengelola data karyawan tetap dan kontrak, serta menyaring karyawan kontrak berdasarkan upah total.</sub>
